@@ -1,0 +1,6 @@
+# ignore a single file
+my-app.iml
+
+# ignore an entire directory
+/.idea/
+
